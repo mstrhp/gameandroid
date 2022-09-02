@@ -2,7 +2,7 @@
   {
     "name": "New Update !",
     "text": "آپدیت جدید هم اکنون دردسترس ✅",
-    "update": true,
+    "update": false,
     "link": "https://google.com",
     "mode": true
   }
