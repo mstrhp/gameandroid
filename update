@@ -1,9 +1,10 @@
 [
   {
-    "name": "New Update !",
-    "text": "آپدیت جدید هم اکنون دردسترس ✅",
-    "update": true,
+    "tittle": "اپدیت جدید",
+    "massage": "هم اکنون به روز سانی 1.3 دردسترس !",
+    "button": "دانلود از مایکت",
     "link": "https://google.com",
+    "update": true,
     "mode": true
   }
 ]
