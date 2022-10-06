@@ -4,7 +4,7 @@
     "massage": "سرورهای برنامه فعلا بسته هستند ! بعدا تلاش کنید",
     "button": "گوگل",
     "link": "https://google.com",
-    "update": true,
+    "update": false,
     "mode": true
   }
 ]
