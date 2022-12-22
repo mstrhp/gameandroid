@@ -2,7 +2,7 @@
   {
     "tittle": "Notice",
     "massage": "سرورهای برنامه فعلا بسته هستند ! بعدا تلاش کنید",
-    "button": "",
+    "button": " ",
     "link": "https://google.com",
     "update": true,
     "mode": true
