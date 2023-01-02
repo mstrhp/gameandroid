@@ -1,10 +1,10 @@
 [
   {
     "tittle": "Notice",
-    "massage": "برنامه بزودی دردسترس می گیرد",
-    "button": " ",
-    "link": "https://google.com",
-    "update": false,
+    "massage": "مهلت تست این نسخه به پایان رسید.لطفا منتظر انتشار نسخه جدید از طرف توسعه دهنده باشید",
+    "button": "کانال تلگرام سازنده",
+    "link": "https://t.me/gameandroid20",
+    "update": true,
     "mode": true
   }
 ]
