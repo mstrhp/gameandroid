@@ -1,8 +1,7 @@
 {
-  "name": "BaziPhone_V2.0",
-  "servermode": "offline",
-  "changelog": "• بهبود و رفع باگ\n• بهبود گرافیک",
+  "servermode": "online",
+  "whatsnew": "• بهبود و رفع باگ\n• بهبود گرافیک",
   "direct": "https://1da.ir/HMXvhJY",
   "myket": "",
-  "time": "10:15"
+  "log": "با عرض پوزش ،\nسرورها تا ساعت 21 بسته خواهند بود !"
 }
